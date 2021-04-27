@@ -2,4 +2,4 @@
 Alguns exercicios feitos durante o estudo.
 
 
-Os exercicios são simples sem POO.
+*Os exercicios são simples sem POO.*
